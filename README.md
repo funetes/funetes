@@ -11,7 +11,7 @@
 - 실수를 줄이기 위한 코드를 중요시합니다.
 - 커뮤니케이션을 중요시 합니다. 잘못된 의사소통은 결국 잘못된 개발을 하게 됩니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=funetes)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=funetes&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **funetes/funetes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
