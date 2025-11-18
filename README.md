@@ -1,77 +1,41 @@
-## Welcome! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# ✨ About Me
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=f7ea00&height=300&section=header&text=Funetes%20GitHub&fontSize=90&&animation=fadeIn)
+안녕하세요, 프론트엔드 개발자 김환입니다.
+작은 인터랙션 하나가 사용자 경험을 바꾼다고 믿는 사람입니다.
+보이지 않는 편의를 위해 고민하고, 실제 사용자의 하루에 잔잔한 변화를 만드는 일을 좋아합니다. 
 
-<p align="center">
-  <span>모르는 것을 하나씩 알아가고 적용하는 기쁨, 내가 짠 코드가 잘 돌아갈때의 쾌감, 개발이 즐거운 이유입니다.</span>
-</p>
+# 🛠 Tech Stack
 
-<p align="center">
-  <span>좋은 코드는 아트(art)라고 생각하는 이상한(?) 개발자,</span>
-  <span>배우기를 좋아하는 개발자 입니다. 🙂</span>
-</p>
- 
-<p align="center">
-  ⚡️<b>skills</b>
-</p>
+- Web: React, Next.js, TailwindCSS, Styled-components, React Query
+- Mobile: React Native
+- Backend 경험: NestJS, GraphQL, PostgreSQL, Strapi
+- DevOps & Tools: Docker, Firebase, Sentry, Git/GitHub, Jest, Playwright
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-</p>
+# 💼 Experience
+## 액션파워 — Frontend Developer (2021.05 ~ 2024.12)
+- AI 음성인식/요약 플랫폼 Daglo 웹 & 모바일 개발
+- React / Next.js 기반 UI/UX 리뉴얼
+- React Native 앱 신규 개발 및 전면 리팩토링
+- Push 알림, 결제 시스템, 세션 리플레이, Lazy loading 적용 등 성능 및 유저 경험 개선
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
-</p>
+## 뉴비즈스타트 — Fullstack & Mobile (2020.10 ~ 2021.04)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-</p>
+- 초기 스타트업 프로덕트 개발
+- Next.js + Express 기반 웹 플랫폼 MVP 개발
+- React Native 모바일 앱 + NestJS + GraphQL 전반 개발 주도
 
-<p align="center">
-  ⚡️<b>Experience</b>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-</p>
+# 🚀 What I Value
 
+- 사용자 중심의 실질적인 제품 가치를 만드는 개발
+- 정확한 커뮤니케이션과 명확한 데이터 흐름
+- 장기적인 유지보수성과 확장성을 고려한 구조 설계
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=funetes&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funetes&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
--->
-</p>
- 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=funetes&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+# 🎯 Mission
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funetes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+기술은 마음을 전하는 도구입니다.
 
--->
+사용자가 "이거 참 편하네"라고 느끼는 순간을 만들어내는 개발자가 되고자 합니다.
 
-<!--
-**funetes/funetes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📬 Contact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: kimlove2324@gmail.com
