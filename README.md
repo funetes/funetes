@@ -38,4 +38,8 @@
 
 # 📬 Contact
 
-Email: kimlove2324@gmail.com
+Email: kimlove2324@gmail.com\
+Blog: https://rootly.kr
+
+# 🧑‍🔬 실험실 (궁금한 기술들 적용하는 사이트)
+- https://lab.rootly.kr
