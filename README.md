@@ -41,4 +41,5 @@
   - https://yt-kor-sync.rootly.kr
 - [음악 스트리밍app 개발후기](https://rootly.kr/devlog-node-jsro-seuteuriming-seobeo-mandeulda-pogihago-nginxro-galatan-hugi-feat-range-request/)
   - https://music.rootly.kr
-- https://lab.rootly.kr
+- O-Cho (오초) 5초 받아쓰기
+  - https://lab.rootly.kr
