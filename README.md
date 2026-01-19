@@ -37,6 +37,8 @@
 사용자가 "이거 참 편하네"라고 느끼는 순간을 만들어내는 개발자가 되고자 합니다.
 
 # 🧑‍🔬 Toy And Study
-- https://yt-kor-sync.rootly.kr
-- https://music.rootly.kr
+- youtube korean sync app
+  - https://yt-kor-sync.rootly.kr
+- [음악 스트리밍서버 개발후기](https://rootly.kr/devlog-node-jsro-seuteuriming-seobeo-mandeulda-pogihago-nginxro-galatan-hugi-feat-range-request/)
+  - https://music.rootly.kr
 - https://lab.rootly.kr
