@@ -39,6 +39,6 @@
 # 🧑‍🔬 Toy And Study
 - youtube korean sync app
   - https://yt-kor-sync.rootly.kr
-- [음악 스트리밍서버 개발후기](https://rootly.kr/devlog-node-jsro-seuteuriming-seobeo-mandeulda-pogihago-nginxro-galatan-hugi-feat-range-request/)
+- [음악 스트리밍app 개발후기](https://rootly.kr/devlog-node-jsro-seuteuriming-seobeo-mandeulda-pogihago-nginxro-galatan-hugi-feat-range-request/)
   - https://music.rootly.kr
 - https://lab.rootly.kr
